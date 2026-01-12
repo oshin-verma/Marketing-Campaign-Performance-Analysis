@@ -1,9 +1,9 @@
 # Marketing-Campaign-Performance-Analysis
 
-What the project is about
+                                                                                          What the project is about
 The goal of the project is to measure how effective different marketing campaigns are and help businesses understand where their marketing budget performs best. It analyzes customer behavior, campaign reach, spending, and purchase outcomes to generate actionable insights.
 
-What problem it solves
+                                                                                          What problem it solves
 Marketing teams often run multiple campaigns across channels but struggle to answer questions like:
 Which campaign actually drives purchases?
 Are we overspending on low-performing campaigns?
@@ -15,7 +15,7 @@ This project answers those questions using data.
 
 
 
-What was done in the project
+                                                                                              What was done in the project
 
 1)Data Preparation
 2)Cleaned and processed raw marketing campaign data
